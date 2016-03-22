@@ -8,3 +8,6 @@ Download and source the Convert-Reg.ps1 PowerShell file
 
 # Examples
 <img src=http://i.imgur.com/lTMcyMj.png>
+
+# Known Limitations
+This function currently only supports REG_SZ and REG_DWORD values.
